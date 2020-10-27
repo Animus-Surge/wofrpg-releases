@@ -14,3 +14,6 @@ assignees: ''
 **Describe the bug**
 
 **Screenshots**
+
+**Paste the log here**
+(Note: Logs can be found here on Windows: %APPDATA%/WoFRPG/logs/update.log)
